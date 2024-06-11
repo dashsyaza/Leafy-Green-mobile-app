@@ -1,4 +1,4 @@
-package com.example.leafy_green_mobile_app
+package com.example.lg
 
 import io.flutter.embedding.android.FlutterActivity
 

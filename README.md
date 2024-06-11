@@ -1,4 +1,4 @@
-# leafy_green_mobile_app
+# lg
 
 A new Flutter project.
 
